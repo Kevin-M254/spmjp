@@ -1,0 +1,18 @@
+INSERT INTO `mjp-01-02-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(5, "Union Berlin - RB Leipzig", 2.85, 3.45, 2.48, "0:0"),
+(16, "Kilmarnock - Dundee", 2.29, 3.3, 2.95, "1:0"),
+(15, "Schalke - Magdeburg", 2.37, 3.5, 2.75, "2:5"),
+(8, "G.A. Eagles - Twente", 2.55, 3.55, 2.5, "2:2"),
+(8, "Ajax - Feyenoord", 2.21, 3.55, 2.5, "2:1"),
+(4, "Toulouse - Nice", 2.55, 3.45, 2.8, "1:1"),
+(13, "Suditrol - Reggiana", 2.4, 2.75, 3.2, "2:1"),
+(8, "Salernitana - Cremonese", 3.05, 3.15, 2.26, "1:0"),
+(2, "Bristol City - Peterborough", 2.95, 3.4, 2.23, "3:1"),
+(3, "Valencia - Celta Vigo", 2.38, 3.15, 3.3, "2:1"),
+(14, "Eibar - Deportiva la Coruna", 2.24, 3.15, 3.15, "0:1"),
+(4, "Reims - Nantes", 2.17, 3.45, 3.45, "1:2"),
+(3, "Osasuna - Real Sociedad", 3.05, 3.05, 2.6, "2:1"),
+(9, "Gent - Anderlecht", 2.29, 3.45, 3.0, "1:0"),
+(6, "Roma - Napoli", 3.15, 3.25, 2.42, "1:1"),
+(3, "Real Betis - Athletic Bilbao", 2.95, 3.3, 2.49, "2:2"),
+(14, "Tenerife - Albacete Balompie", 2.26, 3.05, 3.25, "3:1");
