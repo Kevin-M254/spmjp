@@ -1,6 +1,6 @@
 -- Creates database spmjp with table mjp_matches
 CREATE DATABASE IF NOT EXISTS `spmjp`;
-CREATE TABLE IF NOT EXISTS `spmjp`.`mjp-01-02-25` (
+CREATE TABLE IF NOT EXISTS `spmjp`.`mjp-03-05-25` (
 	PRIMARY KEY(`id`),
 	`id`	    INT 		NOT NULL AUTO_INCREMENT,
 	`league_id` INT			NOT NULL,

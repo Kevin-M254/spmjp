@@ -1,0 +1,18 @@
+INSERT INTO `mjp-19-04-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(5, "Union Berlin - Vfb Stuttgart", 2.9, 3.45, 2.46, "4:4"),
+(1, "Aston Villa - Newcastle", 2.6, 3.55, 2.65, "4:1"),
+(14, "Burgos - Cadiz", 2.65, 2.7, 3.0, "2:2"),
+(24, "Wolfsberger - Rapid Vienna", 2.48, 3.25, 2.65, "5:1"),
+(1, "Fulham - Chelsea", 2.8, 3.55, 2.5, "1:2"),
+(6, "Empoli - Venezia", 2.3, 3.05, 3.55, "2:2"),
+(5, "Augsburg - Eintracht Frankfurt", 2.6, 3.45, 2.75, "2:2"),
+(9, "Genk - Union St. Gilloise", 2.37, 3.4, 2.75, "1:2"),
+(14, "Cordoba - Real Oviedo", 2.21, 3.15, 3.2, "0:0"),
+(29, "Goteborg - Hacken", 2.21, 3.55, 2.95, "2:3"),
+(28, "Volendam - Excelsior", 2.28, 3.6, 2.6, "1:4"),
+(24, "Austria Vienna - Salzburg", 2.95, 3.25, 2.27, "1:3"),
+(4, "Reims - Tolouse", 3.3, 3.35, 2.28, "1:0"),
+(4, "Brest - Lens", 2.37, 3.45, 3.05, "1:3"),
+(6, "Bologna - Inter Milan", 3.3, 3.2, 2.37, "1:0"),
+(3, "Sevilla - Alaves", 2.07, 3.1, 4.2, "1:1"),
+(6, "Ac Milan - Atalanta", 2.6, 3.6, 2.65, "0-1");

@@ -1,0 +1,17 @@
+INSERT INTO `mjp-15-02-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(5, "Bayer Leverkusen - Bayern Munich", 3.05, 3.45, 2.32, "0:0"),
+(15, "Fortuna Dusseldorf - Hertha Berlin", 2.2, 3.65, 2.95, "2:1"),
+(8, "Zwolle - Heerenveen", 2.26, 3.45, 2.95, "1:1"),
+(13, "Calcio - Regianna", 2.49, 2.85, 2.95, "1:1"),
+(6, "Monza - Lecce", 2.75, 3.2, 2.8, "0:0"),
+(16, "St. Mirren - Hibernian", 3.15, 3.15, 2.26, "0:0"),
+(14, "Eidense - D. La Coruna", 2.6, 3.0, 2.75, "2:0"),
+(14, "Huesca - Granada", 2.55, 2.85, 2.95, "1:1"),
+(13, "Cesena - Pisa", 2.6, 3.0, 2.7, "1:1"),
+(1, "Tottenham - Man Utd", 2.4, 3.75, 2.8, "1:0"),
+(9, "Charleroi - Anderlecht", 2.55, 3.25, 2.7, "0:1"),
+(5, "Heidenheim - Mainz", 3.55, 3.25, 2.1, "0:2"),
+(6, "Juventus - Inter Milan", 3.4, 3.25, 2.29, "1:0"),
+(4, "Rennes - Lille", 2.65, 3.35, 2.75, "0:2"),
+(3, "Real Betis - Sociedad", 2.65, 3.15, 3.0, "1:0"),
+(7, "Guimaraes - Braga", 2.45, 3.35, 2.8, "0:0");

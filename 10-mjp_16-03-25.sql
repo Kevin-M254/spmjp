@@ -1,0 +1,18 @@
+INSERT INTO `mjp-16-03-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(2, "Sheffield Wednesday - Sheffield Utd", 2.5, 3.15, 3.0, "0:1"),
+(14, "Eidense - Mirandes", 2.7, 2.95, 2.7, "2:2"),
+(12, "Zurich - Sion", 2.65, 3.05, 2.65, "1:1"),
+(6, "Bologna - Lazio", 2.4, 3.1, 3.3, "5:0"),
+(13, "Reggianna - Genoa", 2.6, 2.7, 2.95, "2:2"),
+(5, "VFL Bochum - Eintracht Frankfurt", 2.85, 3.65, 2.42, "1:3"),
+(3, "Sevilla - Athletic Bilbao", 3.2, 3.15, 2.45, "0:1"),
+(14, "Huesca - Levante", 3.0, 2.9, 2.48, "1:2"),
+(4, "Montpellier - St. Ettienne", 2.23, 3.6, 3.15, "N/A"),
+(4, "Strasbourg - Tolouse", 2.48, 3.25, 3.0, "2:1"),
+(6, "Fiorentina - Juventus", 3.65, 3.2, 2.21, "3:0"),
+(14, "Cadiz - Granada", 2.28, 3.05, 3.2, "1:0"),
+(3, "Osasuna - Getafe", 2.34, 2.95, 3.7, "1:2"),
+(3, "Rayo Vallecano - Real Sociedad", 2.39, 3.05, 3.4, "2:2"),
+(5, "Vfb Stuttgart - Bayer Leverkusen", 3.25, 3.5, 2.25, "3:4"),
+(6, "Atalanta - Inter Milan", 2.75, 3.25, 2.7, "0:2"),
+(3, "Atletico Madrid - Barcelona", 3.15, 3.65, 2.22, "2:4");

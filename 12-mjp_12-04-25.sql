@@ -1,0 +1,18 @@
+INSERT INTO `mjp-12-04-25` (`league_id`, `match`, `results`) VALUES
+(4, "Toulouse - Lille", "1:2"),
+(12, "Zurich - Basel", "1:4"),
+(4, "Strasbourg - Nice", "2:2"),
+(14, "Albacete Balompie - Granada", "0:2"),
+(26, "Viborg - Silkeborg", "2:1"),
+(3, "Osasuna - Girona", "2:1"),
+(6, "Hellas Verona - Genoa", "0:0"),
+(4, "St. Etienne - Brest", "3:3"),
+(1, "Wolves - Tottenham", "4:2"),
+(12, "Sion - Servette", "1:1"),
+(12, "Luzern - Young Boys", "5:0"),
+(28, "VVV Venlo - Helmond Sport", "4:1"),
+(27, "Panathinaikos - PAOK", "3:1"),
+(14, "Eidense - Sporting Gijon", "1:2"),
+(3, "Real Betis - Sevilla", "1:2"),
+(9, "Dender - Standard Liege", "1:1"),
+(6, "Lazio - Roma", "1:1");

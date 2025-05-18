@@ -1,0 +1,18 @@
+INSERT INTO `mjp-08-02-25` (`league_id`, `match`, `results`) VALUES
+(8, "Groningen - Nijmegen", "2:1"),
+(6, "Torino - Genoa", "1:1"),
+(1, "Brighton - Chelsea", "2:1"),
+(3, "Alaves - Getafe", "0:1"),
+(17, "Istanbulspor - Ankaragucu", "1:0"),
+(8, "Waalwijk - NAC Breda", "5:0"),
+(18, "Sekhulukhune - Supersport", "1:1"),
+(19, "Widzew Lodz - Cracovia", "1:1"),
+(13, "Reggiana - Cesena", "0:1"),
+(5, "Holstein Kiel - Bochum", "2:2"),
+(14, "Burgos - Racing Santander", "2:1"),
+(7, "Farense - Madeira", "0:2"),
+(10, "Antalayspor - Istanbul Basaksehir", "0:0"),
+(4, "Auxerre - Toulouse", "2:2"),
+(20, "Slaven Belupo - Lokomotiva Zagreb", "2:1"),
+(21, "Aris Limassol - AEK Larnaca", "1:1"),
+(14, "Deportivo la Coruna - Almeria", "3:1");

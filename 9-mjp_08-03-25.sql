@@ -1,0 +1,18 @@
+INSERT INTO `mjp-08-03-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(1, "Brentford - Aston Villa", 2.12, 3.75, 3.1, "0:1"),
+(5, "Freiburg - Leipzig", 2.6, 3.3, 2.75, "0:0"),
+(1, "Wolves - Everton", 2.75, 3.0, 2.9, "1:1"),
+(4, "Munster - Nurnberg", 2.8, 3.35, 2.4, "0:1"),
+(14, "Tenerife - Huesca", 2.32, 2.85, 3.35, "2:1"),
+(12, "Zurich - Servette", 2.85, 3.45, 2.28, "1:3"),
+(8, "NEC Nimjegen - G.A. Eagles", 2.11, 3.5, 3.25, "2:3"),
+(1, "Tottenham - Bournemouth", 2.75, 3.9, 2.39, "2:2"),
+(9, "Westerlo - Anderlecht", 2.95, 3.6, 2.25, "2:0"),
+(14, "Malaga - Cadiz", 2.6, 2.9, 2.8, "0:2"),
+(12, "Luzern - Basel", 3.05, 3.55, 2.12, "1:1"),
+(12, "Sion - Lugano", 2.7, 3.2, 2.55, "2:1"),
+(4, "Reims - Auxerre", 2.48, 3.35, 2.95, "0:2"),
+(4, "Le Havre - St. Etienne", 2.34, 3.5, 3.05, "1:1"),
+(4, "Nantes - Strasbourg", 2.6, 3.35, 2.8, "0:1"),
+(9, "Antwerp - Gent", 2.26, 3.55, 2.95, "0:1"),
+(6, "Juventus - Atalanta", 2.55, 3.3, 2.9, "0:4");

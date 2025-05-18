@@ -1,0 +1,18 @@
+INSERT INTO `mjp-22-02-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(1, "Aston Villa - Chelsea", 2.65, 3.6, 2.6, "2:1"),
+(4, "St. Etienne - Angers", 2.39, 3.45, 3.0, "3:3"),
+(12, "St. Gallen - Basel", 2.95, 3.6, 2.16, "2:2"),
+(15, "Sporting Gijon - Almeria", 2.65, 3.2, 2.55, "1:1"),
+(22, "Western United - Adelaide", 2.48, 3.95, 2.55, "3:0"),
+(23, "Torreense - Chaves", 2.9, 3.05, 2.29, "1:2"),
+(15, "Damstadt - Shalcke", 2.29, 3.6, 2.8, "2:0"),
+(24, "Altach - Hartberg", 2.41, 3.0, 2.7, "0:0"),
+(23, "Leixoes - Alverca", 2.6, 2.95, 2.6, "1:1"),
+(13, "Calcio - Palermo", 2.9, 3.0, 2.44, "0:3"),
+(23, "Viseu - Tondela", 2.7, 2.95, 2.5, "1:1"),
+(24, "LASK Linz - Rapid Vienna", 2.85, 3.15, 2.22, "2:1"),
+(4, "Strasbourg - Brest", 2.0, 3.65, 3.75, "0:0"),
+(1, "Man City - Liverpool", 2.9, 3.95, 2.26, "0:2"),
+(9, "Anderlecht - Union St. Gilloise", 2.65, 3.5, 2.55, "0:2"),
+(3, "Getafe - Real Betis", 2.65, 3.05, 3.0, "1:2"),
+(25, "Vasco da Gama - Botafogo", 2.32, 3.05, 2.75, "1:0");

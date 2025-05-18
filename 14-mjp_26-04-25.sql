@@ -1,0 +1,16 @@
+INSERT INTO `mjp-26-04-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(3, "Barcelona - Real Madrid", 2.36, 3.85, 2.8, "2:2"),
+(5, "Hannover - Cologne", 3.15, 3.45, 2.18, "1:0"),
+(29, "Hacken - Hammarby", 2.9, 3.55, 2.19, "1:1"),
+(30, "Stevenage - Rotherham", 2.13, 3.3, 3.25, "1:1"),
+(5, "Vfl Bochum - Union Berlin", 2.34, 3.5, 3.05, "1:0"),
+(29, "AIK - Elfsborg", 2.28, 3.25, 2.95, "1:1"),
+(26, "Aarhus - Copenhagen", 2.9, 3.15, 2.18, "1:3"),
+(7, "Moreirense - Nacional", 2.2, 3.05, 3.6, "1:1"),
+(29, "Varnamo - Norrkoping", 2.27, 3.5, 2.85, "1:3"),
+(8, "Almere - G. A. Eagles", 2.47, 3.75, 2.5, "0:0"),
+(31, "Shakhtar Donetsk - Dynamo Kyiv", 2.1, 3.15, 3.05, "2:2"),
+(4, "Nantes - Toulouse", 2.9, 3.4, 2.5, "0:0"),
+(14, "Tenerife - Eibar", 2.3, 2.95, 3.3, "1:1"),
+(14, "Malaga - Castellon", 2.8, 3.15, 2.44, "1:0"),
+(14, "Hercules - Alcoron", 1.87, 3.25, 3.6, "2:0");
