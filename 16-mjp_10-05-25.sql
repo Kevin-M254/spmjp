@@ -1,0 +1,15 @@
+INSERT INTO `mjp-10-05-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(3, "Leganes - Espanyol", 2.44, 3.1, 3.25, "3:2"),
+(12, "Luzern - Lausanne", 2.41, 3.45, 2.65, "1:1"),
+(8, "Feyenoord - PSV Eindhoven", 2.6, 3.75, 2.39, "2:3"),
+(8, "Twente - Utrecht", 2.36, 3.65, 2.7, "2:0"),
+(6, "Hellas Verona - Lecce", 2.24, 3.05, 3.75, "1:1"),
+(1, "Tottenham - Crystal Palace", 2.7, 3.75, 2.49, "0:2"),
+(5, "Bayer Leverkusen - Borussia Dortmund", 2.7, 3.95, 2.42, "2:4"),
+(12, "Servette - Young Boys", 2.22, 3.6, 2.85, "0:0"),
+(1, "Liverpool - Arsenal", 2.17, 3.57, 3.44, "2:2"),
+(27, "PAOK - Athens", 2.34, 2.95, 2.8, "1:0"),
+(7, "Moreirense - Estoril", 2.4, 3.3, 2.95, "2:2"),
+(27, "Panathinaikos - Olympiacos", 2.34, 2.95, 2.8, "0:1"),
+(9, "Dender - Leuven", 2.41, 3.45, 2.65, "5:0"),
+(30, "Wycombe - Charlton", 2.39, 3.0, 3.0, "0:0");

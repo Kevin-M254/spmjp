@@ -1,0 +1,18 @@
+INSERT INTO `mjp-18-05-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(14, "Racing Club Ferrol - Cadiz", 3.2, 3.1, 2.25, "1:0"),
+(8, "NAC Breda - Willem II Tilburg", 1.86, 3.5, 4.1, "1:1"),
+(8, "Heerenveen - Feyenoord", 2.95, 3.9, 2.09, "2:0"),
+(8, "Heracles - NEC Nijmegen", 2.41, 3.45, 2.75, "1:2"),
+(1, "West Ham - Nottingham", 2.9, 3.35, 2.55, "1:2"),
+(1, "Leicester - Ipswich", 2.31, 3.7, 2.95, "2:0"),
+(26, "Soenderjyske - Lyngby", 2.6, 3.2, 2.35, "5:1"),
+(9, "KV Mechelen - Charleroi", 2.12, 3.65, 2.95, "1:1"),
+(12, "Luzern - Servette", 2.23, 3.85, 2.7, "3:4"),
+(24, "Wolfsberger - Austria Vienna", 2.35, 3.2, 2.85, "1:2"),
+(24, "Rapid Vienna - Sturm Graz", 2.95, 3.5, 2.16, "3:1"),
+(10, "Bodrumspor - Trabzonspor", 1.88, 3.55, 3.9, "1:1"),
+(10, "Kasimpasa - Istanbul Basaksehir", 2.13, 3.55, 3.15, "2:3"),
+(3, "Valencia - Athletic Bilbao", 2.44, 3.0, 3.35, "0:1"),
+(3, "Mallorca - Getafe", 2.33, 3.05, 3.55, "1:2"),
+(3, "Real Sociedad - Girona", 2.08, 3.3, 3.85, "3:2"),
+(3, "Osasuna - Espanyol", 1.9, 3.5, 4.4, "2:0");
