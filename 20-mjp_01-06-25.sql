@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(29, "Brommapojkarna - IFK Goteborg", 2.5, 3.4, 2.6, "1:3"),
+(34, "Sundsvall - Falkenbergs", 2.65, 3.15, 2.34, "0:0"),
+(35, "Fatima - Amora", 2.85, 2.95, 2.33, "1:2"),
+(36, "Cerro - Montevideo", 2.7, 2.85, 2.5, "1:2"),
+(37, "Oldham - Southend", 2.36, 3.1, 2.75, "1:1"),
+(35, "Lusitano - Elvas", 2.55, 3.2, 2.42, "2:1"),
+(14, "Huesca - Eidense", 2.14, 3.0, 3.6, "3:2"),
+(29, "Sirius - AIK", 2.8, 3.25, 2.41, "3:1"),
+(34, "Oddevold - Landskrona", 2.38, 3.15, 2.6, "1:2"),
+(38, "Bryne - Sandefjord", 2.5, 3.35, 2.65, "3:2"),
+(40, "Salpa - Akatamela", 2.48, 3.45, 2.34, "0:0"),
+(14, "Racing Santander - Granada", 2.75, 3.35, 2.37, "2:1"),
+(32, "Molde - Viking", 2.44, 3.75, 2.48, "0:1"),
+(41, "Chacarita - Gimnasia Jujuy", 2.14, 2.7, 3.7, "0:1"),
+(42, "Pyramids - Mamelodi Sundowns", 2.2, 2.75, 3.3, "2:1"),
+(36, "River Plate - Defensor Sporting", 2.55, 3.0, 2.5, "1:2"),
+(36, "Malpu - Atlanta", 2.55, 2.6, 3.0, "0:1");

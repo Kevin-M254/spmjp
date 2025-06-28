@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(47, "Eskilstuna - Arlanda", 2.37, 3.45, 2.44, "1:0"),
+(50, "Vestri - KA Akureyri", 2.65, 3.3, 2.29, "1:0"),
+(34, "Varberg - Vasteraas", 2.34, 3.2, 2.65, "1:0"),
+(51, "Fenix - Maldonado", 2.01, 2.9, 3.6, "1:1"),
+(39, "Lysekloster - Arendal", 2.75, 3.45, 2.14, "2:1"),
+(41, "San Telmo - Nueva Chicago", 2.42, 2.85, 2.9, "2:2"),
+(53, "Antofagasta - Magallanes", 2.3, 3.05, 2.8, "5:0"),
+(54, "Tecnico Univ - Aucas", 2.85, 3.05, 2.28, "1:1"),
+(41, "Guemes - Ferro", 2.25, 2.85, 3.2, "1:1"),
+(13, "Sampdoria - Salernitana", 2.22, 2.9, 3.4, "2:0"),
+(41, "Dep Madryn - Atlanta", 1.87, 2.85, 4.4, "1:1"),
+(41, "Alvarado - Colegiales", 2.29, 2.7, 3.3, "1:0"),
+(55, "Atletico GO - Coritiba", 2.22, 2.75, 3.25, "0:0"),
+(51, "Tacuarembo - Rentistas", 2.12, 3.1, 3.1, "2:1"),
+(56, "Envigado - Aguillas D", 2.75, 2.7, 2.6, "2:0"),
+(52, "Coquimbo - U. de Chile", 2.75, 3.1, 2.29, "1:0"),
+(50, "Fram - FH", 3.0, 3.6, 1.97, "2:0");

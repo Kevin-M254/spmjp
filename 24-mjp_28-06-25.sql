@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `at_odds`) VALUES
+(58, "Palmeiras - Botafogo", 2.25, 2.95, 3.7,),
+(59, "Rosario - Santa Fe", 2.09, 2.8, 3.5),
+(60, "England - Germany", 2.48, 3.25, 2.44),
+(58, "Benfica - Chelsea", 3.9, 3.55, 1.95),
+(29, "Degefors - Brommapojkarna", 2.31, 3.45, 2.8),
+(38, "Haugesund - Kristiansund", 2.9, 3.55, 2.21),
+(29, "Hacken - GAIS", 2.43, 3.5, 2.6),
+(38, "Fredrikstad - Tromsoe", 2.46, 3.1, 2.85),
+(38, "Stroemsgodset - Vaalerenga", 2.5, 3.6, 2.47),
+(41, "All Boys - Atlanta", 3.0, 2.6, 2.55),
+(36, "Racing - City Torque", 2.16, 3.15, 2.95),
+(41, "Maipu - San Miguel", 2.55, 2.7, 2.85,),
+(41, "Alvarado - Racing de Cordoba", 2.55, 2.9, 2.65),
+(49, "Sacachispas - San Martin", 2.38, 3.25, 2.55),
+(49, "Dock Sud - Communicaciones", 2.38, 2.95, 2.75),
+(55, "Athletic - Remo", 2.13, 3.0, 3.15),
+(55, "Redonda - Ferroviario", 2.1, 2.8, 3.5);

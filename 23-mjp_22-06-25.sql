@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(34, "Oddevold - Varbergs", 3.2, 3.3, 2.15, "2:1"),
+(38, "KFUM - Stroemsgodset", 1.9, 3.5, 4.1, "5:0"),
+(38, "HamKam - Tromso", 3.35, 3.45, 2.15, "1:3"),
+(41, "San Telmo - Chacarita", 2.65, 2.95, 2.8, "1:1"),
+(52, "La Serena - Limache", 2.85, 3.3, 2.35, "1:1"),
+(53, "Santa Cruz - Antofagasta", 2.15, 3.3, 3.2, "3:0"),
+(57, "York - Atletico FC", 3.5, 3.35, 2.0, "0:0"),
+(54, "LDU Quito - Ind. del Valle", 2.3, 3.3, 2.9, "1:1"),
+(41, "Ferro - SM Tucuman", 2.3, 2.7, 3.6, "0:2"),
+(13, "Salernitana - Sampdoria", 2.2, 3.2, 3.2, "N/A"),
+(41, "Agropecuario - Defensores", 2.55, 2.7, 3.1, "1:1"),
+(41, "Almirante - Est Caseros", 2.85, 2.6, 2.75, "0:1"),
+(53, "U. Concepcion - Copiapo", 2.75, 3.05, 2.55, "1:0"),
+(41, "Gimn Jujuy - Estudiantes RC", 2.05, 2.6, 4.0, "2:2"),
+(50, "IA - Stjarnan", 3.05, 3.5, 2.15, "0:3"),
+(41, "Central - Moron", 3.0, 2.4, 2.75, "0:0"),
+(41, "Mitre SdE - Temperley", 2.15, 2.75, 3.9, "2:2");

@@ -1,4 +1,4 @@
-INSERT INTO `mjp-05-04-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
 (3, "Mallorca - Celta de Vigo", 2.6, 3.2, 2.95, "1:2"),
 (7, "Arouca - Famalicao", 2.85, 3.15, 2.55, "1:2"),
 (4, "Lyon - Lille", 2.31, 3.6, 3.05, "2:1"),

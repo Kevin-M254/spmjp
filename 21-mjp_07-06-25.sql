@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(43, "Canada - Ukraine", 2.16, 3.45, 3.25, "4:2"),
+(44, "Pescara - Ternana", 2.27, 2.95, 2.95, "0:1"),
+(43, "USA - Turkey", 2.55, 3.55, 2.7, "1:2"),
+(43, "Mexico - Switzerland", 2.6, 3.3, 2.7, "2:4"),
+(39, "Flekkeroy - Lysekloster", 2.65, 3.7, 2.11, "3:1"),
+(39, "Pors - Sandviken", 2.14, 3.45, 2.75, "1:1"),
+(46, "Central - Treze", 2.8, 2.95, 2.35, "1:0"),
+(36, "Progreso - Miramar", 2.13, 3.1, 3.05, "1:0"),
+(48, "Skiljebo - Sunnersta", 2.3, 3.95, 2.31, "1:1"),
+(47, "Ljungskile - Jonkopings", 2.65, 3.25, 2.3, "2:0"),
+(47, "Vasalunds - Karlstad", 2.48, 3.6, 2.28, "1:3"),
+(40, "Palloilijat - Luistinseura", 2.5, 3.55, 2.28, "0:0"),
+(14, "Racing Santander - Mirandes", 2.08, 3.25, 3.45, "3:3"),
+(14, "Ibiza - Andorra", 1.88, 3.35, 3.45, "0:1"),
+(41, "San Telmo - Gim Mendoza", 3.35, 2.85, 2.17, "0:0"),
+(36, "Juventud - Racing", 2.65, 2.95, 2.46, "2:1"),
+(49, "Urquiza - Comunicaciones", 2.75, 2.8, 2.49, "1:0");

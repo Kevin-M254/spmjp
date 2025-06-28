@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(25, "Gremio - Bahia BA", 2.33, 2.9, 2.85, "1:0"),
+(29, "Brommapojkarna - AIK", 2.75, 3.3, 2.34, "0:1"),
+(1, "Wolverhampton - Brentford", 2.8, 3.8, 2.38, "1:1"),
+(1, "Nottingham - Chelsea", 3.15, 3.75, 2.19, "0:1"),
+(1, "Ipswich - West Ham", 3.0, 3.9, 2.21, "1:3"),
+(20, "Osijek - Istra", 2.4, 3.15, 2.75, "1:1"),
+(32, "Selnajoen - Inter Turku", 3.35, 3.55, 1.85, "0:1"),
+(7, "Benfica - Sporting Lisbon", 2.2, 3.25, 2.75, "1:1"),
+(14, "Cadiz - Huesca", 2.24, 2.95, 3.4, "4:0"),
+(14, "Eidense - Racing Santander", 2.6, 3.5, 2.45, "3:3"),
+(14, "Mirandes - Almeria", 216, 3.2, 3.25, "0:0"),
+(33, "Austria Lustenau - Voltsberg", 2.6, 3.2, 2.36, "3:0"),
+(25, "Recife - Internacional", 2.35, 3.0, 2.8, "1:1"),
+(10, "Trabzonspor - Samsunspor", 2.29, 3.55, 2.85, "2:2"),
+(10, "Konyaspor - Alanyaspor", 2.95, 3.35, 2.31, "1:2"),
+(3, "Athletic Bilbao - Barcelona", 3.25, 3.8, 2.12, "0:3"),
+(25, "Palmeiras - Flamengo", 2.21, 2.8, 3.2, "0:2");

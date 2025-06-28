@@ -1,4 +1,4 @@
-INSERT INTO `mjp-08-02-25` (`league_id`, `match`, `results`) VALUES
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `results`) VALUES
 (8, "Groningen - Nijmegen", "2:1"),
 (6, "Torino - Genoa", "1:1"),
 (1, "Brighton - Chelsea", "2:1"),

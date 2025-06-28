@@ -1,5 +1,5 @@
 -- inserts matches for spmjp dated 25/01/2025
-INSERT INTO `mjp-25-01-25` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) 
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) 
 VALUES 
 (4, "Strasbourg - Lille", 3.1, 3.4, 2.3, "2:1"),
 (6, "Empoli - Bologna", 3.9, 3.25, 2.09, "1:1"),
