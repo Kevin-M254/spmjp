@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<HTML lang="en">
+    <HEAD>
+        <TITLE>SPMJP</TITLE>
+    </HEAD>
+    <BODY>
+      {% if (found == 1) %}
+      <H1>Country: {{ country }}</H1>
+      <H3>Leagues:</H3>
+      <UL>
+              {% for league in array %}
+              <LI>{{ league.id }}: <B>{{ league.name }}</B></LI>
+              {% endfor %}
+      </UL>
+      {% elif found == 0 %}
+      <H1>Countries</H1>
+      <UL>
+          {% for country in array %}
+          <LI>{{ country.id }}: <B>{{ country.name }}</B></LI>
+          {% endfor %}
+      </UL>
+      {% else %}
+         <H1>Not found!</H1>
+      {% endif %}
+     </BODY>
+</HTML>

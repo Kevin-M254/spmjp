@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(41, "Almagro - Maipu", 2.03, 2.85, 3.75, "0:1"),
+(55, "Remo - Culaba", 2.19, 2.9, 3.15, "0:0"),
+(38, "Tromsoe - Molde", 2.21, 3.4, 3.0, "1:0"),
+(63, "Ehime - Montedlo", 2.95, 3.25, 2.1, "1:3"),
+(64, "Gifu - Sagamihara", 2.43, 3.05, 2.6, "1:1"),
+(65, "Gimpo - Busan IPark", 2.4, 3.05, 2.65, "3:0"),
+(38, "Sandefjord - Rosenborg", 2.6, 3.5, 2.45, "2:0"),
+(51, "La Luz - Fenix", 2.95, 2.85, 2.33, "2:2"),
+(41, "Nueva Chicago - Mitre", 2.46, 2.75, 2.95, "2:0"),
+(36, "Nacional - Penarol", 2.42, 2.9, 2.75, "0:0"),
+(41, "Chacarita -Defensores", 2.06, 2.85, 3.65, "0:2"),
+(41, "Patronato - Tristian", 2.21, 2.8, 3.3, "2:0"),
+(55, "Ferroviaria - Vila Nova", 2.21, 2.7, 3.35, "1:3"),
+(53, "Magallanes - Coplapo", 2.75, 3.25, 2.45, "0:1"),
+(52, "Univ Catolica - Colo Colo", 2.7, 3.1, 2.33, "2:0"),
+(66, "Londrina - Guarani FC", 2.04, 2.85, 3.6, "1:1"),
+(41, "Guemes - SM Tucuman", 2.65, 2.6, 2.9, "2:1");

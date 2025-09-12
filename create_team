@@ -1,0 +1,28 @@
+create Team league_id="7639e361-6652-434a-b85c-2be6db26fcf8" name="Ml_Boleslav"
+create Team league_id="7639e361-6652-434a-b85c-2be6db26fcf8" name="Liberec"
+create Team league_id="b51bc482-1cc8-4d22-b7d6-c8d30ae60103" name="Farul" position=11 mp=1 drawn=1 points=1
+create Team league_id="b51bc482-1cc8-4d22-b7d6-c8d30ae60103" name="Otelul" position=12 mp=1 drawn=1 points=1
+create Team league_id="b51bc482-1cc8-4d22-b7d6-c8d30ae60103" name="Rapid" position=4 mp=1 won=1 points=3
+create Team league_id="b51bc482-1cc8-4d22-b7d6-c8d30ae60103" name="CFR" position=5 mp=1 won=1 points=3
+create Team league_id="bddb47f9-8cc4-44e3-8d0e-2a9a3582f9b3" name="Vaprus" position=6 mp=19 won=6 drawn=5 lost=8 points=23
+create Team league_id="bddb47f9-8cc4-44e3-8d0e-2a9a3582f9b3" name="Kuressaare" position=9 won=4 drawn=2 lost=14 points=14
+create Team league_id="62287133-4a2b-4e06-b987-bcced36828ec" name="R._Union_SG"
+create Team league_id="62287133-4a2b-4e06-b987-bcced36828ec" name="Club_Brugge"
+create Team league_id="de3db86b-0432-4ce2-bc8d-a04948a46aa7" name="Fredrikstad" position=8 mp=15 won=6 drawn=3 lost=6 points=21
+create Team league_id="de3db86b-0432-4ce2-bc8d-a04948a46aa7" name="HamKam" position=14 won=3 drawn=4 lost=6 points=13
+create Team league_id="7bfcfdfb-5347-4959-bf45-38e5e08e2db3" name="Pachuca" position=5 mp=1 won=1 points=3
+create Team league_id="7bfcfdfb-5347-4959-bf45-38e5e08e2db3" name="Pumas" position=18 mp=1 lost=1
+create Team league_id="c02fbb39-557b-4938-aefc-0e38208440c4" name="Macara" position=13 mp=20 won=5 drawn=7 lost=8 points=22
+create Team league_id="c02fbb39-557b-4938-aefc-0e38208440c4" name="Tecnico_Univ" position=16 mp=20 won=2 drawn=7 lost=11 points=13
+create Team league_id="458ef1d6-3001-4101-aa96-85d46a4624cb" name="Pogon"
+create Team league_id="458ef1d6-3001-4101-aa96-85d46a4624cb" name="Radomlak"
+create Team league_id="458ef1d6-3001-4101-aa96-85d46a4624cb" name="Grau"
+create Team league_id="458ef1d6-3001-4101-aa96-85d46a4624cb" name="Ayacucho_FC"
+create Team league_id="9ca25dac-c230-4aad-b9e9-5d6cd8e8688d" name="Celje"
+create Team league_id="9ca25dac-c230-4aad-b9e9-5d6cd8e8688d" name="Maribor"
+create Team league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" name="Defensores" position=11 mp=21 won=7 drawn=8 lost=6 points=29
+create Team league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" name="Estudiantes_RC" position=5 mp=22 won=9 drawn=10 lost=3 points=37
+create Team league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" name="Almirante" mp=22 position=16 won=3 drawn=9 lost=10 points=18
+create Team league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" name="Guemes" position=14 mp=22 won=4 drawn=12 lost=6 points=24
+create Team league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" name="Gimnasia_Tiro" position=6 mp=22 won=8 drawn=8 lost=6 points=32
+

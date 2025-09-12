@@ -1,0 +1,4 @@
+create Country name="Netherlands"
+create Country name="Spain"
+create Country name="Scotland"
+create Country name="France"

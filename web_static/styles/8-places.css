@@ -1,0 +1,52 @@
+/*
+ * === Matches class style ===
+ */
+
+/* Matches style */
+.matches article {
+  /*border: 1px solid #ff5a5f;
+  border-radius: 4px;*/
+  display: inline-block;
+  margin: 5px;
+  padding: 2px;
+  width: 700px;
+}
+
+/* Jackpot header */
+.matches .jackpot {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2px;
+}
+
+/* teams, odds and results style */
+.matches .information {
+  align-items: center;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-direction: row;
+  height: 30px;
+  justify-content: space-around;
+  text-align: center;
+}
+
+/* Matches header style */
+.matches h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: .67em 0 .67em 0;
+  width 100%;
+}
+
+/* matches paragraph style */
+.matches p {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

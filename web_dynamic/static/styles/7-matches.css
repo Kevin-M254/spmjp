@@ -1,0 +1,34 @@
+.matches {
+  column-count: 1;
+  columns: 90em;
+  justify-content: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 0 1px;
+}
+@media only screen and (max-width: 920px)
+{
+    .matches {
+      display: flex;
+      flex-wrap: wrap;
+    }
+}
+.matchesh1 h1 {
+  width: 100%;
+  margin-right: 400px;
+  text-align: left;
+  font-size: 35px;
+}
+
+.matches article {
+  display: inline-block;
+  width: 900px;
+  height: 100%;
+}
+
+.jp_matches {
+  display: flex;
+  flex-direction: column;
+}
+
+

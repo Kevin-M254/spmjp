@@ -1,0 +1,33 @@
+create Match league_id="f48c8dac-5740-43d7-9448-3a25a27a789a" match_id=386 home_team="Vestri" away_team="IBV" h_t_odds=2.7 x_odds=3.15 a_t_odds=2.32 h_t_pos=6 a_t_pos=9 h_t_win=6 h_t_draw=1 h_t_lose=8 a_t_win=5 a_t_draw=3 a_t_lose=7 h_t_form="LWLLLW" a_t_form="WDLLLL" h_t_win_percent=42 a_t_win_percent=40
+
+create Match league_id="62287133-4a2b-4e06-b987-bcced36828ec" match_id=387 home_team="OHL" away_team="Charleroi" h_t_odds=2.8 x_odds=3.35 a_t_odds=2.46 
+
+create Match league_id="62acb8ed-da51-491f-92db-bc73b1e7b344" match_id=389 home_team="Liepaja" away_team="Auda" h_t_odds=2.5 x_odds=3.35 a_t_odds=2.39 h_t_pos=4 a_t_pos=3 h_t_win=10 h_t_draw=5 h_t_lose=8 h_t_form="LWLWWW" a_t_win=5 a_t_draw=3 a_t_lose=7 a_t_form="LLDWWL" h_t_win_percent=51 a_t_win_percent=54
+
+create Match league_id="bc9826d4-3bc3-4d5d-b4db-e9f0c0f42f94" match_id=390 home_team="Orenburg" away_team="Dynamo_Makh." h_t_odds=2.33 x_odds=3.05 a_t_odds=2.75 h_t_pos=10 a_t_pos=12 h_t_win=1 h_t_form"D" a_t_lose=1 a_t_form="L" a_t_win_percent=0 h_t_win_percent=33
+
+create Match league_id="59e96bd-eb6b-41d3-823b-e8e1857549e5" match_id=391 home_team="Polonia" away_team="Tychy" h_t_odds=1.82 x_odds=3.55 a_t_odds=3.5 h_t_pos=10 h_t_draw=1 h_t_form="D" h_t_win_percent=33 a_t_pos=5 a_t_win=1 a_t_form="W" a_t_win_percent=100
+
+create Match league_id="dc648be9-ded8-474f-8835-46b928165b2a" match_id=392 home_team="Nordsjaelland" away_team="Brondby" h_t_odds=3.1 x_odds=3.8 a_t_odds=2.11 h_t_pos=4 h_t_win=1 h_t_form="W" h_t_win_percent=100 a_t_pos=3 a_t_win=1 a_t_form="W" a_t_win_percent=100
+
+create Match league_id="3a83fb53-768f-4f9d-a217-f3d9f0a89ea9" match_id=393 home_team="Antofagasta" away_team="Wanderers" h_t_odds=2.27 x_odds=3.15 a_t_odds=2.75 h_t_pos=12 h_t_win=5 h_t_draw=6 h_t_lose=6 h_t_form="DLWLLW" h_t_win_percent=41 a_t_pos=3 a_t_win=7 a_t_draw=6 a_t_lose=4 a_t_form="LLWLWW" a_t_win_percent=53
+
+create Match league_id="4e000074-2fca-4f46-9fda-89685a93f3c8" match_id=394 home_team="Napredak" away_team="Novi_Pazar" h_t_odds=2.46 x_odds=3.1 a_t_odds=2.55 h_t_pos=1 h_t_lose=1 h_t_form="L"
+
+create Match league_id="62287133-4a2b-4e06-b987-bcced36828ec" match_id=395 home_team="Sint_Truiden" away_team="Gent" h_t_odds=2.13 x_odds=3.6 a_t_odds=3.2
+
+create Match league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" match_id=396 home_team="Alvarado" away_team="Ferro" h_t_odds=2.75 x_odds=2.6 a_t_odds=2.75 h_t_pos=17 h_t_win=4 h_t_draw=9 h_t_lose=9 h_t_form="DDLWW" h_t_win_percent=32 a_t_pos=15 a_t_win=6 a_t_draw=8 a_t_lose=9 a_t_form="DLDDL" a_t_win_percent=38
+
+create Match league_id="4e000074-2fca-4f46-9fda-89685a93f3c8" match_id=397 home_team="FK_IMT" away_team="Cukaricki" h_t_odds=3.0 x_odds=3.1 a_t_odds=2.16 h_t_pos=8 h_t_draw=1 h_t_form="D" h_t_win_percent=33 a_t_pos=6 a_t_win=1 a_t_form="W" a_t_win_percent=100
+
+create Match league_id="b51bc482-1cc8-4d22-b7d6-c8d30ae60103" match_id=380 home_team="Otelul" away_team="Dinamo" h_t_odds=2.55 x_odds=2.95 a_t_odds=2.65 h_t_pos=13 h_t_win=0 h_t_draw=1 h_t_lose=1 h_t_form="LD" h_t_win_percent=17 a_t_pos=10 a_t_win=0 a_t_draw=2 a_t_lose=0 a_t_form="DD" a_t_win_percent=33
+
+create Match league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" match_id=381 home_team="Temperley" away_team="Gimn_Jujuy" h_t_odds=2.75 x_odds=2.35 a_t_odds=3.11 h_t_pos=6 h_t_win=10 h_t_draw=8 h_t_lose=5 h_t_form="WWDDW" h_t_win_percent=55 a_t_pos=2 a_t_win=11 a_t_draw=10 a_t_lose=2 a_t_form="DDDWDW" a_t_win_percent=62
+
+create Match league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" match_id=382 home_team="Colon" away_team="Gim_Mendoza" h_t_odds=2.75 x_odds=2.7 a_t_odds=2.7 h_t_pos=13 h_t_win=8 h_t_draw=3 h_t_lose=12 h_t_form="WWLLLL" h_t_win_percent=39 a_t_pos=3 a_t_win=10 a_t_draw=10 a_t_lose=2 a_t_form="LWWLDD" a_t_win_percent=61
+
+create Match league_id="2e759035-520b-46ad-aaae-5a5e110565ed" match_id=383 home_team="Univ_Catolica" away_team="Coquimbo" h_t_odds=2.7 x_odds=2.75 a_t_odds=2.55 h_t_pos=5 h_t_win=7 h_t_draw=5 h_t_lose=4 h_t_form="DWDDL" h_t_win_percent=54 a_t_pos=1 a_t_win=10 a_t_draw=5 a_t_lose=1 a_t_form="WLLWWW" a_t_win_percent=73
+
+create Match league_id="d86e1297-98ab-4b8f-97e0-e6f5758b8516" match_id=384 home_team="Itabaiana" away_team="Ituano" h_t_odds=2.29 x_odds=2.95 a_t_odds=2.9 h_t_pos=19 h_t_win=3 h_t_draw=2 h_t_lose=8 h_t_form"LDLWLL" h_t_win_percent=28 a_t_pos=10 a_t_win=4 a_t_draw=5 a_t_lose=4 a_t_form="LDWLDD" a_t_win_percent=44
+
+create Match league_id="d86e1297-98ab-4b8f-97e0-e6f5758b8516" match_id=385 home_team="Caxias" away_team="Ponte_Preta" h_t_odds=2.17 x_odds=2.75 a_t_odds=3.35 h_t_pos=1 h_t_win=9 h_t_draw=0 h_t_lose=4 h_t_form="LWWWWW" h_t_win_percent=69 a_t_pos=2 a_t_win=8 a_t_draw=2 a_t_lose=3 a_t_form="WLWWDL" a_t_win_percent=67

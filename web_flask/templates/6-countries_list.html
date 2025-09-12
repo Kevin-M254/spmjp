@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<HTML lang="en">
+    <HEAD>
+        <TITLE>SPMJP</TITLE>
+    </HEAD>
+    <BODY>
+        <H1>Countries</H1>
+        <UL>
+            {% for country in countries %}
+            <LI>{{ country["id"] }}: <B>{{ country["name"] }}</B></LI>
+            {% endfor %}
+        </UL>
+    </BODY>
+</HTML>
+

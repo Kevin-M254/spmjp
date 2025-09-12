@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(72, "Ml. Boleslav - Liberec", 2.65, 3.05, 2.55, "3:3"),
+(73, "Farul - Otelul", 2.18, 3.05, 2.55, "3:2"),
+(74, "Kuressaare - Vaprus", 3.1, 3.3, 2.01, "2:1"),
+(9, "R. Union SG - Club Brugge", 2.35, 3.05, 2.7, "1:2"),
+(38, "HamKam - Fredrikstad", 2.65, 3.2, 2.55, "1:1"),
+(75, "Pumas - Pachuca", 2.8, 3.25, 2.26, "2:3"),
+(54, "Tecnico Univ - Macara", 2.75, 2.85, 2.49, "1:0"),
+(19, "Radomiak - Pogon", 2.9, 3.25, 2.22, "5:1"),
+(76, "Ayacucho FC - Grau", 2.55, 2.85, 2.7, "1:2"),
+(77, "Maribor - Celje", 1.93, 3.45, 3.2, "2:0"),
+(41, "Almirante - Mitre SdE", 2.7, 2.7, 2.7, "1:1"),
+(41, "Guemes - Gimnasia Tiro", 2.0, 2.7, 4.2, "1:1"),
+(73, "Rapid - CFR", 2.35, 3.2, 2.9, "0:0"),
+(41, "Defensores - Estudiantes RC", 2.26, 2.8, 3.25, "0:0"),
+(55, "Amazonas - Botafogo SP", 2.25, 2.75, 3.2, "3:0"),
+(25, "Vitoria - Bragantino", 2.6, 2.85, 2.55, "1:0"),
+(50, "Vikingur R - Valur", 2.11, 3.25, 2.95, "1:2");

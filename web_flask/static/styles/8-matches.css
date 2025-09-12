@@ -1,0 +1,111 @@
+/*
+ * === Matches class style ===
+ */
+
+/* Matches style */
+.matches {
+  column-count: 1;
+  justify-content: center;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+@media only screen and (max-width: 920px) {
+  .matches {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.matches article {
+  /*border: 1px solid #ff5a5f;
+  border-radius: 4px;*/
+  display: inline-block;
+  margin: 1px;
+  padding: 0.5px;
+  width: 700px;
+}
+
+/* Jackpot header */
+.matches .jp_matches {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 0.1px;
+}
+
+
+
+/* teams, odds and results style */
+.information {
+  display: flex;
+}
+
+.matches .information {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 0.1px;
+  margin-right: 1px;
+  width: 700px;
+}
+
+.jp_matches p {
+  margin-left: 4em;
+}
+
+.jp_matches .odds p {
+  font-size: 15px;
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 4em;
+}
+
+.information .position p {
+  display: inline-block;
+  margin-left: 2em;
+}
+
+.information .win p {
+  display: inline-block;
+  color: green;
+  margin-left: 1em;
+}
+
+.information .draw p {
+  color: gray;
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.information .lost p {
+  color: red;
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.information .form p {
+  font-weight: bold;
+  font-size: 20;
+  display: inline-block;
+  margin-left: 1em;
+}
+
+/* Matches header style */
+.matches h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: .67em 0 .67em 0;
+  width 100%;
+}
+
+/* matches paragraph style */
+.matches p {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

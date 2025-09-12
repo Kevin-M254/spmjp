@@ -1,0 +1,18 @@
+INSERT INTO `mjp_2501-0106` (`league_id`, `match`, `ht_odds`, `x_odds`, `at_odds`, `results`) VALUES
+(41, "Talleres - San Telmo", 2.75, 2.9, 2.48, "0:0"),
+(67, "Longford - Kerry", 2.29, 3.3, 2.65, "3:1"),
+(41, "Est Caseros - Gimn Jujuy", 2.48, 2.5, 3.25, "0:0"),
+(68, "Envigado - Fortaleza", 2.65, 2.75, 2.65, "0:1"),
+(69, "Toronto - Atalanta", 2.32, 3.35, 2.65, "1:1"),
+(70, "Miami - Lexington", 2.2, 3.4, 2.7, "1:1"),
+(69, "Chicago - San Diego", 2.45, 3.65, 2.34, "1:2"),
+(70, "New Mexico - Charleston", 3.1, 3.1, 2.1, "1:2"),
+(70, "Roots - Pheonix Rising", 2.42, 3.1, 2.6, "1:2"),
+(71, "Jiading - Zhiyun", 2.41, 3.05, 2.65, "0:1"),
+(29, "GAIS - Hammarby", 2.75, 3.3, 2.43, "3:2"),
+(38, "Bryne - Valeranga", 2.31, 3.4, 2.8, "1:0"),
+(38, "Kristiansund - Sarpsborg", 2.7, 3.5, 2.36, "0:0"),
+(40, "SalPa - KaPa", 2.5, 3.5, 2.3, "1:0"),
+(38, "Brann - Viking", 2.29, 3.7, 2.7, "3:1"),
+(25 , "Mirassol - Fluminense", 2.55, 2.95, 2.55, "NP"),
+(41, "Mitre SdE - Chaco", 2.29, 2.75, 3.2, "1:0");

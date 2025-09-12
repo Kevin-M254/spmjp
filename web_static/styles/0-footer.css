@@ -1,0 +1,10 @@
+/* Footer style */
+
+footer {
+    background-color: #f8f8f8;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    line-height: 60px;
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<HTML lang="en">
+    <HEAD>
+        <TITLE>SPMJP</TITLE>
+    </HEAD>
+    <BODY>
+        <H1>{{ h_1 }}</H1>
+        <UL>
+            {% for country in countries %}
+            <LI>{{ country[0].id }}: <B>{{ country[0].name }}</B>
+                <UL>
+                        {% for league in country[1] %}
+                        <LI>{{ league.id }}: <B>{{ league.name }}</B></LI>
+                        {% endfor %}
+                </UL>
+            </LI>
+            {% endfor %}
+        </UL>
+    </BODY>
+</HTML>
+

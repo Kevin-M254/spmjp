@@ -1,0 +1,33 @@
+create Match league_id="c62a0273-33eb-48e6-90b6-454e64a56549" match_id=491 home_team="Ireland" away_team="Hungary" h_t_odds=2.5 x_odds=3.0 a_t_odds=3.1
+
+create Match league_id="3a83fb53-768f-4f9d-a217-f3d9f0a89ea9" match_id=492 home_team="San_Felipe" away_team="Curico_Unido" h_t_odds=1.83 x_odds=3.15 a_t_odds=3.75 h_t_pos=14 h_t_win=6 h_t_draw=5 h_t_lose=12 h_t_form="LLWLDW" h_t_win_percent=33 a_t_pos=13 a_t_win=5 a_t_draw=9 a_t_lose=9 a_t_form="DLLDDL" a_t_win_percent=35
+
+create Match league_id="ff9706de-402c-4ea5-b0c5-5a1bb22f6861" match_id=493 home_team="Velez" away_team="Cordoba_SdE" h_t_odds=2.15 x_odds=2.8 a_t_odds=3.35 h_t_form="WWWWDL" h_t_win_percent=72 a_t_form="WWLDWD" a_t_win_percent=61
+
+create Match league_id="c3448dc4-b900-4015-8a19-5ecc4baa7849" match_id=494 home_team="Estoril" away_team="Santa_Clara" h_t_odds=2.85 x_odds=3.0 a_t_odds=2.65 h_t_pos=14 h_t_win=0 h_t_draw=2 h_t_lose=1 h_t_form="DLD" h_t_win_percent=22 a_t_pos=15 a_t_win=0 a_t_draw=1 a_t_lose=2 a_t_form="DLL" a_t_win_percent=11
+
+create Match league_id="b3ceaddd-96ad-4df6-94b9-9363c604ac65" match_id=495 home_team="Ceuta" away_team="Huesca" h_t_odds=2.65 x_odds=3.0 a_t_odds=2.7 h_t_pos=22 h_t_win=0 h_t_draw=0 h_t_lose=3 h_t_form="LLL" h_t_win_percent=0 a_t_pos=5 a_t_win=2 a_t_draw=1 a_t_lose=0 a_t_form="WWD" a_t_win_percent=78
+
+create Match league_id="a325096e-428e-438c-8ab9-65999230dac5" match_id=496 home_team="Sol_de_America" away_team="River_plate" h_t_odds=2.4 x_odds=3.2 a_t_odds=2.55 h_t_pos=14 h_t_win=5 h_t_draw=10 h_t_lose=10 h_t_form="DDLLD" h_t_win_percent=33 a_t_pos=7 a_t_win=7 a_t_draw=12 a_t_lose=6 a_t_form="DWLDW" a_t_win_percent=44
+
+create Match league_id="681705a3-4f87-40b3-89dd-122e6a82643a" match_id=497 home_team="Stal_SW" away_team="Swit_Szczecin" h_t_odds=3.35 x_odds=5.4 a_t_odds=1.57 h_t_pos=7 h_t_win=2 h_t_draw=3 h_t_lose=1 h_t_form="LDDWW" h_t_win_percent=50 a_t_pos=3 a_t_win=3 a_t_draw=2 a_t_lose=1 a_t_form="WWWDD" a_t_win_percent=61
+
+create Match league_id="681705a3-4f87-40b3-89dd-122e6a82643a" match_id=498 home_team="Warta_Poznan" away_team="Z_Sosnowlec" h_t_odds=2.6 x_odds=3.15 a_t_odds=2.38 h_t_pos=17 h_t_win=0 h_t_draw=4 h_t_lose=2 h_t_form="DDDDL" h_t_win_percent=22 a_t_pos=14 a_t_win=1 a_t_draw=3 a_t_lose=2 a_t_form="DDDLL" a_t_win_percent=33
+
+create Match league_id="4b9309e9-8580-464f-b381-53dc25d95c8c" match_id=499 home_team="Cerro" away_team="Cerro_Largo" h_t_odds=2.8 x_odds=2.8 a_t_odds=2.44 h_t_pos=10 h_t_win=2 h_t_draw=1 h_t_lose=2 h_t_form="LWWLDL" h_t_win_percent=47 a_t_pos=5 a_t_win=3 a_t_draw=1 a_t_lose=1 a_t_form="LDWWW" a_t_win_percent=67
+
+create Match league_id="b3ceaddd-96ad-4df6-94b9-9363c604ac65" match_id=500 home_team="Burgos" away_team="Las_Palmas" h_t_odds=2.33 x_odds=3.05 a_t_odds=3.1 h_t_pos=11 h_t_win=1 h_t_draw=1 h_t_lose=1 h_t_form="LDW" h_t_win_percent=44 a_t_pos=13 a_t_win=1 a_t_draw=1 a_t_lose=1 a_t_form="LWD" a_t_win_percent=44
+
+create Match league_id="a9185664-e680-4d5e-92ec-fdf11adf56b4" match_id=501 home_team="Arenterio" away_team="Unionistas" h_t_odds=2.39 x_odds=2.85 a_t_odds=2.85 h_t_pos=16 h_t_win=0 h_t_draw=0 h_t_lose=1 h_t_form="L" h_t_win_percent=0 a_t_pos=17 a_t_win=0 a_t_draw=0 a_t_lose=0 a_t_form="L" a_t_win_percent=0
+
+create Match league_id="b3ceaddd-96ad-4df6-94b9-9363c604ac65" match_id=502 home_team="Cultural" away_team="Leganes" h_t_odds=3.1 x_odds=3.15 a_t_odds=2.28 h_t_pos=21 h_t_win=0 h_t_draw=0 h_t_lose=3 h_t_form="LLL" h_t_win_percent=0 a_t_pos=16 a_t_win=0 a_t_draw=3 a_t_lose=0 a_t_form="DDD" a_t_win_percent=33
+
+create Match league_id="2e759035-520b-46ad-aaae-5a5e110565ed" match_id=503 home_team="Cobresal" away_team="Palestino" h_t_odds=2.55 x_odds=3.2 a_t_odds=2.39 h_t_pos=7 h_t_win=9 h_t_draw=5 h_t_lose=7 h_t_form="LDLLWW" h_t_win_percent=51 a_t_pos=2 a_t_win=11 a_t_draw=6 a_t_lose=4 a_t_form="WDLWDW" a_t_win_percent=62
+
+create Match league_id="8417f721-956a-43f9-a48e-7bf75c48d090" match_id=504 home_team="Envigado" away_team="Aguilas_D" h_t_odds=2.7 x_odds=2.8 a_t_odds=2.5 h_t_pos=11 h_t_win=2 h_t_draw=4 h_t_lose=3 h_t_form="WLDLWD" h_t_win_percent=37 a_t_pos=19 a_t_win=1 a_t_draw=4 a_t_lose=4 a_t_form="LLWDDL" a_t_win_percent=26
+
+create Match league_id="d86e1297-98ab-4b8f-97e0-e6f5758b8516" match_id=505 home_team="Floresta" away_team="Caxias" h_t_odds=2.7 x_odds=2.6 a_t_odds=2.75
+
+create Match league_id="fc3a760e-7451-490c-896b-1b9ce89c120a" match_id=506 home_team="Central_Norte" away_team="Agropecuario" h_t_odds=2.08 x_odds=2.9 a_t_odds=3.5 h_t_pos=14 h_t_win=9 h_t_draw=6 h_t_lose=14 h_t_form="LWDDL" h_t_win_percent=38 a_t_pos=9 a_t_win=11 a_t_draw=9 a_t_lose=9 a_t_form="WDWWD" a_t_win_percent=48
+
+create Match league_id="3a83fb53-768f-4f9d-a217-f3d9f0a89ea9" match_id=507 home_team="Concepcion" away_team="Cobreloa" h_t_odds=2.35 x_odds=2.9 a_t_odds=2.85 h_t_pos=7 h_t_win=9 h_t_draw=5 h_t_lose=9 h_t_form="WLLDWW" h_t_win_percent=46 a_t_pos=5 a_t_win=9 a_t_draw=8 a_t_lose=6 a_t_form="DDWLWW" a_t_win_percent=51

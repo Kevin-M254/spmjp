@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>spmjp</title>
+		<link rel="stylesheet" type="text/css" href="../static/styles/5-common.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/3-header.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/3-footer.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/4-filters.css">
+		<link rel="icon" type="image/png" href="../static/images/logo.png">
+	</head>
+
+	<body>
+		<header>
+			<div class="logo"></div>
+
+		</header>
+		<div class="container">
+			<section class="filters">
+				<div class="leagues">
+					<h3>Leagues</h3>
+					<h4>&nbsp;</h4>
+					<div class="popover">
+		
+						<ul>
+							{% for country in countries %}
+							<li>
+								<h2>{{ country[0].name }}:</h2>
+								<ul>
+									{% for league in country[1] %}
+									<li>{{ league.name }}</li>
+									{% endfor %}
+								</ul>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+				<button>Search</button>
+			</section>
+		</div>
+
+		<footer>
+			Spmjp
+		</footer>
+	</body>
+
+</html>

@@ -1,0 +1,8 @@
+/* Header style */
+
+header {
+    background: #f8f9fa url(../images/logo.png) 20px center no-repeat;
+    border-bottom: 1px solid #f8f8f8;
+    height: 60px;
+    width: 100%;
+}

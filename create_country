@@ -1,0 +1,15 @@
+create Country name="Czechia"
+
+create Country name="Romania"
+
+create Country name="Iceland"
+
+create Country name="Estonia"
+
+create Country name="Belgium"
+
+create Country name="Mexico"
+create Country name="Ecuador"
+create Country name="Poland"
+create Country name="Peru"
+create Country name="Slovenia"

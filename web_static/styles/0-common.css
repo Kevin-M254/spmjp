@@ -1,0 +1,20 @@
+/* Body style */
+body {
+    margin: 0;
+    padding: 0;
+    color: #484d4d;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.container {
+    max-width: 1000px;
+    margin: 30px;
+    text-align: center;
+}
+
+/* Block horizontal scrolling */
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}

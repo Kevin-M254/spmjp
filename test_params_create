@@ -1,0 +1,6 @@
+create Country name="Germany"
+create Country name="France"
+all Country
+
+create Mjp league_id="0002" user_id="0002" match="Man_u_-_Chelsea" ht_odds=2.1 x_odds=3.4 at_odds=3.0
+all Mjp

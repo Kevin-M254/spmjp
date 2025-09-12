@@ -1,0 +1,133 @@
+/*
+ * === Filters class styles ===
+ */
+
+/* Filters style */
+.filters {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  height: 70px;
+  width: 100%;
+}
+
+/* Search button style */
+.filters button {
+  background: #ff5a5f;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  float: right;
+  font-size: 18px;
+  height: 48px;
+  margin: 12px 30px;
+  width: 20%
+}
+
+/* Search button hover */
+.filters button:hover {
+  background-color: rgba(255, 90, 95, .9);
+}
+
+/* Leagues style */
+.leagues {
+  display: inline-block;
+  height: 100%;
+  width: 25%;
+}
+
+/* Leagues border */
+.leagues {
+  border-right: 1px solid #ddd;
+}
+
+/* Leagues hover opacity */
+.filters .leagues:hover {
+  background-color: #fafafa;
+}
+
+/* Leagues popover menu */
+.popover {
+  visibility: hidden;
+  width: 100%;
+  border: 1px solid #DDDDDD;
+  border-radius: 4px;
+  padding-bottom: 15px;
+  height: 300px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  max-height: 300px;
+}
+
+.popover::-webkit-scrollbar {
+  width: 0px;
+}
+
+.filters {
+  background-color: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 1px;
+  display: none;
+  position: absolute;
+  width: 18%;
+}
+
+/* Leagues popover hover */
+.filters .leagues:hover .popover {
+  display: block;
+  visibility: visible;
+}
+
+/* Leagues list style */
+.filters .leagues ul {
+  padding: 6px 0 6px 0;
+}
+
+/* Leagues list element margin */
+.filters .leagues li {
+  margin: 0 auto 6px 3em;
+}
+
+.leagues .popover {
+  margin-top: 0%;
+}
+
+.popover ul {
+  list-style-type: none;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.popover ul li {
+  padding: 4px;
+  padding-left: 10px;
+}
+
+/*
+ * Filters header styles
+ */
+
+/* Header box sizing */
+.filters h2,
+.filters h3,
+.filters h4 {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Header 3 style */
+.filters h3 {
+  font-size: 1.17em;
+  font-weight: 600;
+  height: 50%;
+  padding: 15.5px 0 0 30px;
+}
+
+/* Header 4 style */
+.filters h4 {
+  font-size: 14px;
+  font-weight: 400;
+  height: 50%;
+  padding: 4.5px 0 12px 30px;
+}

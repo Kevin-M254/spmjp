@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# backup and compress my database
+mysqldump -u root -p spmjp_dev_db > spmjp_backup.sql
+tar -czvf "$(date +%d-%m-%Y)".tar.gz spmjp_dev_db_backup.sql

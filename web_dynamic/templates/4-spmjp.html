@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>spmjp</title>
+		<link rel="stylesheet" type="text/css" href="../static/styles/5-common.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/4-header.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/3-footer.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/4-filters.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/8-matches.css?{{ cache_id }}">
+		<link rel="icon" type="image/png" href="../static/images/logo.png">
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="/static/scripts/4-spmjp.js?{{ cache_id }}"></script>
+	</head>
+
+	<body>
+		<header>
+			<div class="logo"></div>
+			<div id="api_status"></div>
+		</header>
+		<div class="container">
+			<section class="filters">
+				<div class="leagues">
+					<h3>Leagues</h3>
+					<h4>&nbsp</h4>
+					<div class="popover">
+						
+						<ul>
+							{% for country in countries %}
+							<li>
+								<h2> {{ country[0].name }}:</h2>
+								<ul>
+									{% for league in country %}
+									<li> {{ league.name }}</li>
+									{% endfor %}
+								</ul>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+				<button>Search</button>
+			</section>
+			<div class="matchesh1"><h1>Matches</h1></div>
+			<section class="matches">
+				<!-- <h1>Matches</h1> -->
+			</section>
+		</div>
+
+		<footer>
+			Spmjp
+		</footer>
+	</body>
+
+</html>
