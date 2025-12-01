@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>spmjp</title>
+		<link rel="stylesheet" type="text/css" href="../static/styles/5-common.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/3-header.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/3-footer.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/4-filters.css?{{ cache_id }}">
+		<link rel="stylesheet" type="text/css" href="../static/styles/8-matches.css?{{ cache_id }}">
+		<link rel="icon" type="image/png" href="../static/images/logo.png?cache_id={{ cache_id }}"/>
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script src="../static/scripts/1-spmjp.js?cache_id={{ cache_id }}"></script>
+	</head>
+
+	<body>
+		<header>
+			<div class="logo"></div>
+		</header>
+		<div class="container">
+			<section class="filters">
+				<div class="leagues">
+					<h3>Leagues</h3>
+					<h4>&nbsp</h4>
+					<div class="popover">
+						
+						<ul>
+							{% for country in countries %}
+							<li>
+								
+								<input type="checkbox" data-id="{{ country.id }}" data-name="{{ country.name }}">{{ country[0].name }}:
+								<ul>
+									{% for league in country %}
+									<li> {{ league.name }}</li>
+									{% endfor %}
+								</ul>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+				<button type="button">Search</button>
+			</section>
+			<div class="matchesh1"><h1>Matches</h1></div>
+			<section class="matches">
+				<h1>Matches</h1>
+				{% for match in matches %}
+				<article>
+					<div class="jp_matches">
+						<p>{{ match.home_team}}</p> - <p>{{ match.away_team }}</p>
+						<div class="odds"><p>{{ match.h_t_odds }}</p> <p> {{ match.x_odds }}</p> <p>{{ match.a_t_odds }}</p></div>
+						<div class=results>{{ match.results }}</div>
+					</div>
+					<div class="information">
+						<ul>
+							<li><div class="position">Pos.<p>{{ match.h_t_pos }}</p>   -   <p>{{ match.a_t_pos}}</p></div></li>
+							<li><div class="win">Won: <p>{{ match.h_t_win }}</p>   -   <p>{{ match.a_t_win }}</p></div></li>
+							<li><div class="draw">Drawn: <p>{{ match.h_t_draw }}</p>  -   <p>{{ match.a_t_draw }}</p></div></li>
+							<li><div class="lost">Lost: <p>{{ match.h_t_lose }}</p>  -  <p>{{ match.a_t_lose }}</p></div></li>
+							<li><div class="form">Form: <p>{{ match.h_t_win_percent }}% {{ match.h_t_form }}</p>  -   <p>{{ match.a_t_win_percent }}% {{ match.a_t_form }}</p></div></li>
+						</ul>
+					</div>
+				</article>
+				{% endfor %}
+			</section>
+		</div>
+
+		<footer>
+			Spmjp
+		</footer>
+	</body>
+
+</html>

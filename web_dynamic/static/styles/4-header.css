@@ -5,6 +5,7 @@ header {
     border-bottom: 1px solid #CCCCCC;
     align-items: center;
     display: flex;
+    #position: fixed;
 }
 header .logo {
     margin-left: 20px;

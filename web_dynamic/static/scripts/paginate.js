@@ -1,6 +1,8 @@
 $(document).ready(function () {
   
   const HOST = '0.0.0.0';
+  let page = 1;
+  const perPage = 17;
 
   // Get api status
   $.get(`http://${HOST}:5001/api/v1/status/`, data => {
@@ -45,9 +47,10 @@ $(document).ready(function () {
 
   // Display each match that matches the filters
   function search (filters = {}) {
+    const skip = (page - 1) * perPage;
     $.ajax({
       type: 'POST',
-      url: `http://${HOST}:5001/api/v1/matches_search`,
+      url: `http://${HOST}:5001/api/v1/matches_search?limit=${perPage}&skip=${skip}`,
       data: JSON.stringify(filters),
       dataType: 'json',
       contentType: 'application/json',

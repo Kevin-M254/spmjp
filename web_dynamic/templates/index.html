@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>spmjp</title>
+		<link rel="stylesheet" type="text/css" href="../static/styles/common.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/4-header.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/3-footer.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/4-filters.css">
+		<link rel="stylesheet" type="text/css" href="../static/styles/matches.css">
+		<link rel="icon" type="image/png" href="../static/images/logo.png">
+	</head>
+
+	<body>
+		<header>
+			<div class="logo"></div>
+		</header>
+		<div class="container">
+			<section class="filters">
+				<h3>For filters press here</h3>
+				<a href="{{ url_for('filters') }}"><button>Filters</button></a>
+			</section>
+			<div class="top-nav">
+				{% if page > 1 %}
+				<a href="{{ url_for('index', page=page-1)}}">
+					<div class="prev"></div></a>
+				{% endif %}
+				<span class="nav-info"><p>Page {{ page }} of {{ total_pages }}</p></span>
+				{% if page < total_pages %}
+				<a href="{{ url_for('index', page=page+1) }}">
+					<div class="next"><p></p></div></a>
+				{% endif %}
+			</div>
+			<section class="matches">
+				<h1>Matches</h1>
+				{% for match in matches_on_page %}
+				<article>
+					<div class="jp_matches">
+						<p>{{ match.home_team}}</p> - <p>{{ match.away_team }}</p>
+						<div class="odds"><p>{{ match.h_t_odds }}</p> <p> {{ match.x_odds }}</p> <p>{{ match.a_t_odds }}</p></div>
+						<div class=results>{{ match.results }}</div>
+					</div>
+					<div class="information">
+						<ul>
+							<li><div class="position">P<p>{{ match.h_t_pos }}</p> <p>{{ match.a_t_pos}}</p></div></li>
+							<li><div class="win">W<p>{{ match.h_t_win }}</p> <p>{{ match.a_t_win }}</p></div></li>
+							<li><div class="draw">D<p>{{ match.h_t_draw }}</p> <p>{{ match.a_t_draw }}</p></div></li>
+							<li><div class="lost">L<p>{{ match.h_t_lose }}</p> <p>{{ match.a_t_lose }}</p></div></li>
+							<li><div class="form">Form: <p>{{ match.h_t_win_percent }}% {{ match.h_t_form }}</p> <p>{{ match.a_t_win_percent }}% {{ match.a_t_form }}</p></div></li>
+						</ul>
+					</div>
+				</article>
+				{% endfor %}
+				<nav class="prev_next">
+					{% if page > 1 %}
+                        		<a class="page-link" href="{{ url_for('index', page=page-1) }}" aria-label="previous">
+						Previous</a>
+                        		{% endif %}
+                        		<span>Page {{page}} of {{total_pages}}</span>
+                        		{% if page < total_pages %}
+					<a class="page-link" href="{{ url_for('index', page=page+1) }}" aria-label="next">
+						Next</a>
+                        		{% endif %}
+				</nav>
+			</section>
+			
+		</div>
+		<footer>
+			Spmjp
+		</footer>
+	</body>
+
+</html>

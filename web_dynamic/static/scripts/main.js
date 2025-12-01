@@ -14,7 +14,7 @@ $(document).ready(function () {
   // Update h4 tag with selected leagues
   function updateLeagues(countries, leagues) {
     const lgs = Object.assign({}, countries, leagues);
-    if (Object.values(locations).length === 0) {
+    if (Object.values(lgs).length === 0) {
       $('.leagues h4').html('&nbsp;');
     } else {
       $('.leagues h4').text(Object.values(lgs).join(', '));
@@ -66,19 +66,19 @@ $(document).ready(function () {
 		    </DIV>
                        <DIV class="information">
                          <UL>
-                           <LI><DIV class="position">No
-		     	      <p>${match.h_t_pos}</p><p>${match.a_t_pos}</p>
+                           <LI><DIV class="position"><p>Pos.</p>
+                             <p>${match.h_t_pos}</p><p>${match.a_t_pos}</p>
                            </DIV></LI>
-                           <LI><DIV class="win">W:
+                           <LI><DIV class="win"><p>Won:</p>
                               <p>${match.h_t_win}</p><p>${match.a_t_win}</p>
                            </DIV></LI>
-                           <LI><DIV class="draw">D:
+                           <LI><DIV class="draw"><p>Drawn:</p>
                               <p>${match.h_t_draw}</p><p>${match.a_t_draw}</p>
                            </DIV></LI>
-                           <LI><DIV class="lost">L:
+                           <LI><DIV class="lost"><p>Lost:</p>
 		              <p>${match.h_t_lose}</p><p>${match.a_t_lose}</p>
                            </DIV></LI>
-                           <LI><DIV class="form">Form:
+                           <LI><DIV class="form"><p>Form:</p>
                               <p>${match.h_t_win_percent}%</p><p>${match.h_t_form}</p>
                               <p>${match.a_t_win_percent}%</p><p>${match.a_t_form}</p>
                            </DIV></LI>
@@ -101,4 +101,4 @@ $(document).ready(function () {
 
   // Display all matches
   search();
-})
+});
